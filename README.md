@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there friends, I'm A Person 👋
+
+Alex Person to be precise, my nickname comes from when I was the field-manager of a 300 acre organic apple orchard. Now the 7th generation steward of my family farm I am working my way towards being a competent full-stack javascript developer. I've also spent time studying and working with Python and C++. My greatest aspiration is to help relieve the burdens of farm labor through development.I'm currently working through a tutorial of javascript projects which I will be modifying. [I have been keeping a WordPress blog]( https://aaperson.com/). I am always looking for new opportunities. In addition to ideas for application development my interests vary between a number of technologies:
+
+- drones
+- microcontrollers (Arduino)
+- PI
+- IoT
+- Web3.0 decentralized apps
+- robotics
+![One of my biggest fans](https://images.freeimages.com/images/large-previews/7fc/duck-1484819.jpg)
 
 <!--
 **applemage/applemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
