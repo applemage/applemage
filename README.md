@@ -11,7 +11,7 @@ Alex Person to be precise, my nickname comes from when I was the field-manager o
 ![One of my biggest fans](https://images.freeimages.com/images/large-previews/7fc/duck-1484819.jpg)
 
 
-[![applemage's GitHub stats](https://github-readme-stats.vercel.app/api?username=applemage)](https://github.com/anuraghazra/github-readme-stats)
+[![applemage's GitHub stats](https://github-readme-stats.vercel.app/api?username=applemage&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **applemage/applemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
