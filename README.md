@@ -10,6 +10,9 @@ Alex Person to be precise, my nickname comes from when I was the field-manager o
 - robotics
 ![One of my biggest fans](https://images.freeimages.com/images/large-previews/7fc/duck-1484819.jpg)
 
+
+[![applemage's GitHub stats](https://github-readme-stats.vercel.app/api?username=applemage)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **applemage/applemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
